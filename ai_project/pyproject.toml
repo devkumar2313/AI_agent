@@ -1,0 +1,11 @@
+[project]
+name = "ai-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cryptography==42.0.8",
+    "google-genai==1.12.1",
+    "python-dotenv==1.1.0",
+]
